@@ -1,0 +1,12 @@
+{
+  "name": "healthcare-devsecops",
+  "version": "1.0.0",
+  "description": "Healthcare application for DevSecOps demonstration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
